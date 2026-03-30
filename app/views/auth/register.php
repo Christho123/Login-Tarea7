@@ -165,7 +165,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <div class="form-header">
                 <h2 class="form-title">Crear tu cuenta</h2>
                 <p class="form-subtitle">
-                    ¿Ya tienes cuenta? <a href="login.php">Inicia sesión</a>
+                    ¿Ya tienes cuenta? <a href="/Login-Seminario/public/index.php?url=auth/login">Inicia sesión</a>
                 </p>
             </div>
 
